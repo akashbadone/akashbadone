@@ -1,5 +1,5 @@
 #  Akash Badone
-> A Full Stack Web Developer with a wide range of skills over 5+ years of brainStorming in IT industry
+> A Full Stack Web Developer with a wide range of skills and over 5+ years of brainStorming in the IT industry
 
 ## SkillStack
 - [x] Core PHP, CodeIgniter, Laravel, WordPress, MySQL / MariaDB
@@ -13,5 +13,8 @@
 - Bachelor of Engineering - Computer Science and Engineering - 2017
 
 ## Research
-- A computational study and meta-analysis of content based image retrieval - [IJATEE](https://accentsjournals.org/paperInfo.php?journalPaperId=1116&countPaper=631)
+- A computational study and meta-analysis of content-based image retrieval - [IJATEE](https://accentsjournals.org/paperInfo.php?journalPaperId=1116&countPaper=631)
 - A methodological study and analysis of machine learning algorithms - [IJATEE](https://accentsjournals.org/paperInfo.php?journalPaperId=1119&countPaper=764)
+
+
+![Snake animation](https://github.com/akashbadone/akashbadone/blob/output/github-contribution-grid-snake.svg)
