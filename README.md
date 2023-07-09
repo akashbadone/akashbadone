@@ -89,3 +89,5 @@
 - **Technologies Used**: PHP(WordPress), JavaScript/JQuery, MySQL, HTML5/CSS3, Bootstrap
 - **Aim**: To create a CRM system for easy navigation and content editing by end-user without technical knowledge.
 - **Role**: Designing, developing, testing, deploying, and maintaining the complete website on WordPress.
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
