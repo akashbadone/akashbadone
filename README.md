@@ -1,12 +1,32 @@
+<style>.blue-checkbox input[type="checkbox"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #0366d6;
+  border-radius: 4px;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.blue-checkbox input[type="checkbox"]:checked {
+  background-color: #0366d6;
+}
+</style>
+
+
 # Akash Badone
 > A Full Stack Web Developer with a wide range of skills and over 5+ years of brainStorming in the IT industry
 
 ## SkillStack
+<span class="blue-checkbox">
 - [x] &nbsp; ASP.NET, C#, Dot.Net Core (3.1, 5, 6), MS SQL Server&nbsp;&nbsp;-&nbsp;`5+Y`
 - [x] &nbsp; Core PHP, CodeIgniter, Laravel, WordPress, MySQL / MariaDB&nbsp;&nbsp;-&nbsp;`3+Y`
 - [x] &nbsp; Java, JSP, Servlets, Oracle&nbsp;&nbsp;-&nbsp;`2+Y`
 - [x] &nbsp; HTML5, CSS3, JavaScript, JQuery, Bootstrap&nbsp;&nbsp;-&nbsp;`5+Y`
 - [x] &nbsp; Azure DevOps, AWS, CI/CD, Linux Server, C Panel / Plask&nbsp;&nbsp;-&nbsp;`2+Y`
+</span>
 
 ## Track-Record
 ### SR. SOFTWARE ENGINEER, M.P. STATE ELECTRONICS DEVELOPMENT CORPORATION LTD. (M.P. GOVT.)
