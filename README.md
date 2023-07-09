@@ -21,7 +21,7 @@
 
 ## SkillStack
 
-- <span class="blue-checkbox">[x]</span> &nbsp; ASP.NET, C#, Dot.Net Core (3.1, 5, 6), MS SQL Server&nbsp;&nbsp;-&nbsp;`5+Y`
+- <span class="blue-checkbox">[x] &nbsp; ASP.NET, C#, Dot.Net Core (3.1, 5, 6), MS SQL Server&nbsp;&nbsp;-&nbsp;`5+Y`</span>
 - [x] &nbsp; Core PHP, CodeIgniter, Laravel, WordPress, MySQL / MariaDB&nbsp;&nbsp;-&nbsp;`3+Y`
 - [x] &nbsp; Java, JSP, Servlets, Oracle&nbsp;&nbsp;-&nbsp;`2+Y`
 - [x] &nbsp; HTML5, CSS3, JavaScript, JQuery, Bootstrap&nbsp;&nbsp;-&nbsp;`5+Y`
