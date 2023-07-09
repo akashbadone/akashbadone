@@ -1,16 +1,15 @@
 # Akash Badone
-> A Full Stack Web Developer with a wide range of skills and over 5+ years of Brain-Storming in the IT industry
+> A Full Stack Web Developer with a wide range of skills and over 5+ years of Brain_Storming in the IT industry
 
-## SkillStack
+## Skill_Stack
 
 - [x] &nbsp; ASP.NET, C#, Dot.Net Core (3.1, 5, 6), MS SQL Server&nbsp;&nbsp;-&nbsp;`5+Y`
 - [x] &nbsp; Core PHP, CodeIgniter, Laravel, WordPress, MySQL / MariaDB&nbsp;&nbsp;-&nbsp;`3+Y`
-- [x] &nbsp; Java, JSP, Servlets, Oracle&nbsp;&nbsp;-&nbsp;`2+Y`
 - [x] &nbsp; HTML5, CSS3, JavaScript, JQuery, Bootstrap&nbsp;&nbsp;-&nbsp;`5+Y`
 - [x] &nbsp; Azure DevOps, AWS, CI/CD, Linux Server, C Panel / Plask&nbsp;&nbsp;-&nbsp;`2+Y`
 
+## Track_Record
 
-## Track-Record
 ### SR. SOFTWARE ENGINEER, M.P. STATE ELECTRONICS DEVELOPMENT CORPORATION LTD. (M.P. GOVT.)
 `Sept 2022 – Present`
 - Worked on integrating Aadhar (OTP, Biometric, and Iris) e-KYC API and Samagra API under MP Shiksha Portal.
@@ -42,15 +41,6 @@
 `Nov 2016 – May 2017`
 - Worked with highly experienced web designers and developers to fulfill requirements for the functional elements of Website projects.
 - Directly reported to UAE Clients about their specific projects.
-
-## CERTIFICATIONS
-- [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/757dc75bae1f) – HackerRank
-- [Python for Beginners](https://certificates.simplicdn.net/share/2737214_1627561030.pdf) – Simplilearn
-- [SQL (Basic)](https://www.hackerrank.com/certificates/0f749460fc5e) – HackerRank
-- [Blockchain Certification Training](https://certificates.simplicdn.net/share/2710341_1626370323.pdf) – Simplilearn
-- The Fundamentals of Digital Marketing – Google
-- Java (Core + Adv.) + Oracle – Naresh I Technologies
-- PHP Diploma – IT Department of Professionals (ITDP)
 
 ## RESEARCH PAPERS
 
@@ -99,17 +89,3 @@
 - **Technologies Used**: PHP(WordPress), JavaScript/JQuery, MySQL, HTML5/CSS3, Bootstrap
 - **Aim**: To create a CRM system for easy navigation and content editing by end-user without technical knowledge.
 - **Role**: Designing, developing, testing, deploying, and maintaining the complete website on WordPress.
-
-## OTHER PROJECTS
-
-### KRASHAKRAJ TRACTORS – Web Services for Android App. Tractor Mall
-**Category**: Tractor Listing and Booking App.
-Technologies Used : PHP(Code Ignitor), JS/JQuery, MY SQL, HTML5/CSS3 ,Bootstrap
-**Aim**: We aim to create an Admin panel to add, edit, delete tractors, view and approve user reviews, and a collection of APIs to provide data from the Database to the Application.
-**Role**: Front-end Designing and Backend scripting for Admin Panel and API as well. 
-
-### IC PORTAL – Reporting and Document Management System
-**Category** : Intranet Portal.
-**Technologies Used**: JSP and Servlets, JS/JQuery, MY SQL, HTML5 / CSS3, Bootstrap
-**Aim**: We aim to create a Portal which will give automatic alert messages according to the expiry of documents (MOU) and a Document Management and Reporting System.
-**Role**: Backend Coding with Java (JSP and Servlets). 
