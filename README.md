@@ -2,11 +2,11 @@
 > A Full Stack Web Developer with a wide range of skills and over 5+ years of brainStorming in the IT industry
 
 ## SkillStack
-[x]&nbsp;&nbsp; ASP.NET, C#, Dot.Net Core (3.1, 5, 6), MS SQL Server&nbsp;&nbsp;-&nbsp;-`5+Y`
-[x]&nbsp;&nbsp; Core PHP, CodeIgniter, Laravel, WordPress, MySQL / MariaDB&nbsp;&nbsp;-&nbsp;-`3+Y`
-[x]&nbsp;&nbsp; Java, JSP, Servlets, Oracle&nbsp;&nbsp;-&nbsp;-`2+Y`
-[x]&nbsp;&nbsp; HTML5, CSS3, JavaScript, JQuery, Bootstrap&nbsp;&nbsp;-&nbsp;-`5+Y`
-[x]&nbsp;&nbsp; Azure DevOps, AWS, CI/CD, Linux Server, C Panel / Plask&nbsp;&nbsp;-&nbsp;-`2+Y`
+- [x]&nbsp; ASP.NET, C#, Dot.Net Core (3.1, 5, 6), MS SQL Server&nbsp;&nbsp;-&nbsp;`5+Y`
+- [x]&nbsp; Core PHP, CodeIgniter, Laravel, WordPress, MySQL / MariaDB&nbsp;&nbsp;-&nbsp;`3+Y`
+- [x]&nbsp; Java, JSP, Servlets, Oracle&nbsp;&nbsp;-&nbsp;`2+Y`
+- [x]&nbsp; HTML5, CSS3, JavaScript, JQuery, Bootstrap&nbsp;&nbsp;-&nbsp;`5+Y`
+- [x]&nbsp; Azure DevOps, AWS, CI/CD, Linux Server, C Panel / Plask&nbsp;&nbsp;-&nbsp;`2+Y`
 
 ## Track-Record
 ### SR. SOFTWARE ENGINEER, M.P. STATE ELECTRONICS DEVELOPMENT CORPORATION LTD. (M.P. GOVT.)
@@ -72,7 +72,7 @@
 ### High School – Deepti Convent School (Shujalpur) 
 - Passed from ICSE Board with an aggregate of 63.42% in 2011
 
-  ## PROJECTS
+## PROJECTS
 
 ### MPAGRO – CMS FOR MADHYA PRADESH STATE AGRICULTURE DEPARTMENT
 - **Category**: Government Department Website
